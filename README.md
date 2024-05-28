@@ -81,6 +81,21 @@
   hilited_candidate_text_color: 0x1B1B1B
   hilited_comment_text_color: 0xDBDBDB
   hilited_label_color: 0xFFFFFF
+
+"green":
+  name: "浅绿"
+  author: xubai 
+  back_color: 0xfff4efec
+  shadow_color: 0x4B151515 
+  border_color: 0x00000000
+  hilited_text_color: 0xff483d37
+  hilited_label_color: 0xff6a564c
+  hilited_candidate_text_color: 0xff483d37
+  hilited_comment_text_color: 0xff483d37
+  hilited_candidate_back_color: 0xffbbbc8f
+  label_color: 0xff6a564c
+  candidate_text_color: 0xff483d37
+  comment_text_color: 0xff483d37
 ```
 ### 配色预览
 ![配色预览](/assets/color_schema.png "配色预览")
