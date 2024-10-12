@@ -1,7 +1,7 @@
-## 自用RIME配置 (暂时只放配色)
+# 自用RIME配置 (暂时只放外观设置)
 
 
-### 自用配色方案/color_scheme(部分来源于网络)
+## 自用配色方案/color_scheme(部分来源于网络)
 ```yaml
 "win11":
   name: Win11
@@ -140,3 +140,8 @@ patch:
     "blue_dark":
       .... 
 ```
+
+
+## 小狼毫方案图标
+### 图标展示
+![图标](/assets/icon_display.png "图标展示")
